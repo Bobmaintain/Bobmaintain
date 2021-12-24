@@ -19,7 +19,7 @@
 - 	**HTML/CSS**.
 - 	**NoSQL** (MongoDB).
 - 	**Wordpress**.
-- 	**MS Excel**
+- 	**MS Excel**.
 - 	**Power BI**.
 - 	**Tableu**.
 - 	**Git**.
