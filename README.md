@@ -1,11 +1,14 @@
-   ###                                                          Hi there! I am Chidubem Jonah 👋
-   ###                                                 An Award Winning Data Scientist and Software Engineer
+   #                                                          Hi there! I am Chidubem Jonah 👋
+   ##                                                An Award Winning Data Scientist and Software Engineer
 
 
 
 - 🔭 I’m currently working at Gramel Technologies.
 - 🌱 I’m currently learning to be better in both Software Engineering and Data Science/ Machine Learning.
 - 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment, and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
+- 
+
+
 
 
 
@@ -20,6 +23,7 @@
 - 	Power BI.
 - 	Tableu.
 - 	Git.
+- 
 
 
 
