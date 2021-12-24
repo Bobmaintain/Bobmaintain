@@ -1,5 +1,5 @@
-                                                    ### Hi there! I am Chidubem Jonah 👋
-                                          ### An Award Winning Data Scientist and Software Engineer.
+   ###                                                          Hi there! I am Chidubem Jonah 👋
+   ###                                                 An Award Winning Data Scientist and Software Engineer
 
 
 
