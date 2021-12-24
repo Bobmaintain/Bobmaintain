@@ -1,16 +1,22 @@
-### Hi there! i am Chidubem 👋
+### Hi there! I am Chidubem Jonah 👋
+### An Award Winning Data Scientist and Software Engineer.
 
-<!--
-**Bobmaintain/Bobmaintain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Gramel Technologies
+- 🌱 I’m currently learning to be better in both Software Engineering and Data Science/ Machine Learning
+- 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment, and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
+- 
+- 💬 Ask me about:
+	Python (Numpy, Pandas, Matplotlib, Seaborn, Researchpy, Scipy, Plotly, PyTorch, PyGames, Turtle, Kivy, Tkinter, SciKit-Learn, Keras, PyTorch, Django and Flask).
+	JavaScript (Angular JS, React JS, Express JS/Node JS, and JQuery).
+	SQL (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
+	HTML/CSS.
+	MongoDB.
+	Wordpress.
+	MS Excel
+	Power BI.
+	Tableu.
+	Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: jonahcnb.official@gmail.com
+- ⚡ Fun fact: I love music, driving, travelling, and of course coding.
