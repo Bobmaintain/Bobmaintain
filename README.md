@@ -1,5 +1,6 @@
    #                                                          Hi there! I am Chidubem Jonah 👋
    ##                                                An Award Winning Data Scientist and Software Engineer
+   [Linkedin]( https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)
 
 
 
@@ -28,4 +29,4 @@
 
 
 - 📫 How to reach me: jonahcnb.official@gmail.com
-⚡ Fun fact: I love music, driving, travelling, and of course coding.
+- ⚡ Fun fact: I love music, driving, travelling, and of course coding.
