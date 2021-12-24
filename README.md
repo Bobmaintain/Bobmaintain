@@ -28,4 +28,4 @@
 
 
 - 📫 How to reach me: jonahcnb.official@gmail.com
-- ⚡ Fun fact: I love music, driving, travelling, and of course coding.
+⚡ Fun fact: I love music, driving, travelling, and of course coding.
