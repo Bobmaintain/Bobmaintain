@@ -13,16 +13,16 @@
 
 
 - 💬 Ask me about:
-- 	Python (Numpy, Pandas, Matplotlib, Seaborn, Researchpy, Scipy, Plotly, PyTorch, PyGames, Turtle, Kivy, Tkinter, SciKit-Learn, Keras, PyTorch, Django and Flask).
-- 	JavaScript (Angular JS, React JS, Express JS/Node JS, and JQuery).
-- 	SQL (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
-- 	HTML/CSS.
-- 	MongoDB.
-- 	Wordpress.
-- 	MS Excel
-- 	Power BI.
-- 	Tableu.
-- 	Git.
+- 	**Python** (Numpy, Pandas, Matplotlib, Seaborn, Researchpy, Scipy, Plotly, PyTorch, PyGames, Turtle, Kivy, Tkinter, SciKit-Learn, Keras, PyTorch, Django and Flask).
+- 	**JavaScript** (Angular JS, React JS, Express JS/Node JS, and JQuery).
+- 	**SQL** (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
+- 	**HTML/CSS**.
+- 	**NoSQL** (MongoDB).
+- 	**Wordpress**.
+- 	**MS Excel**
+- 	**Power BI**.
+- 	**Tableu**.
+- 	**Git**.
 - 
 
 
