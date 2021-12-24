@@ -1,7 +1,6 @@
    #                                                          Hi there! I am Chidubem Jonah 👋
    ##                                                An Award Winning Data Scientist and Software Engineer
-   [Linkedin]( https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)
-
+   
 
 
 - 🔭 I’m currently working at Gramel Technologies.
@@ -28,5 +27,6 @@
 
 
 
-- 📫 How to reach me: jonahcnb.official@gmail.com
+- 📫 How to reach me: [Gmail](jonahcnb.official@gmail.com), [Linkedin]( https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)
+
 - ⚡ Fun fact: I love music, driving, travelling, and of course coding.
