@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working at Gramel Technologies.
-- 🌱 I’m learning to be better at both Software Engineering and Data Science/ Machine Learning daily.
+- 🌱 I’m learning to be better at both Software Engineering and Data Science/ Artificial Intelligence/ Machine Learning daily.
 - 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
 - 
 
