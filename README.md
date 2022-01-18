@@ -29,4 +29,4 @@
 
 - 📫 How to reach me: [Gmail](jonahcnb.official@gmail.com), [Linkedin]( https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)
 
-- ⚡ Fun fact: I love music, driving, travelling, and of course coding.
+- ⚡ Fun fact: I love music🎼, driving🚕, travelling✈, and ofcourse <coding/>.
