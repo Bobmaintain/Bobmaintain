@@ -18,7 +18,7 @@
 - 	**SQL** (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
 - 	**PHP** (Laravel, Codeigniter, CakePHP).
 - 	**Docker/Kubernetes**.
-. 	**HTML/CSS**.
+- 	**HTML/CSS**.
 - 	**NoSQL** (MongoDB).
 - 	**Wordpress**.
 - 	**MS Excel**.
