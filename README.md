@@ -54,6 +54,13 @@ style="vertical-align:top; margin: 4px"></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bobmaintain&show_icons=true&locale=en" alt="Bobmaintain" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bobmaintain&" alt="Bobmaintain" /></p>
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bobmaintain&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 - 📫 How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bobmaintain)](https://github.com/Bobmaintain)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)](https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jonahcnb.official@gmail.com)](jonahcnb.official@gmail.com)
 
