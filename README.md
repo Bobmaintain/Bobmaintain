@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Bobmaintain&color=green)
-
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Bobmaintain.visitor-badge)](https://github.com/Bobmaintain)[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/Bobmaintain)](https://gist.github.com/Bobmaintain)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Bobmaintain.visitor-badge)](https://github.com/Bobmaintain)
+[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/Bobmaintain)](https://gist.github.com/Bobmaintain)
 
    #                                                          Hi there! I am Chidubem Jonah 👋
    ##                                                An Award Winning Data Scientist and Software Engineer
