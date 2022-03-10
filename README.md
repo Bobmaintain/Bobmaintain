@@ -13,9 +13,6 @@
 - 
 
 
-
-
-
 - 💬 Ask me about:
 - 	**Python** (Numpy, Pandas, Matplotlib, Seaborn, Researchpy, Scipy, SymPy, Plotly, PyTorch, PyGames, Turtle, Kivy, Tkinter, SciKit-Learn, Keras, PyTorch, Django and Flask).
 - 	**JavaScript** (Angular JS, React JS, Express JS/Node JS, and JQuery).
@@ -55,9 +52,11 @@ style="vertical-align:top; margin: 4px"></p>
 
 
 <h3 align="left">Github Activity Graph:</h3>
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bobmaintain&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="left">Awards and Trophies:</h3>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bobmaintain&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 📫 How to reach me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bobmaintain)](https://github.com/Bobmaintain)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)](https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jonahcnb.official@gmail.com)](jonahcnb.official@gmail.com)
