@@ -67,8 +67,9 @@ style="vertical-align:top; margin: 4px"></p>
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bobmaintain)](https://github.com/Bobmaintain)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)](https://www.linkedin.com/in/dubem-jonah-gas-mnsap-72a13b7b)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jonahcnb.official@gmail.com)](jonahcnb.official@gmail.com)
 
 
+
 - ⚡ Fun fact: I love music🎼, driving🚕, travelling✈, and ofcourse <>coding</>💻.
 
 
 
-<h4>Welcome To My GitHub Profile!</h4>😊😊😊
+<h4 align="center">Welcome To My GitHub Profile!</h4>  😊😊😊
