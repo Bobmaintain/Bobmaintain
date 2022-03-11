@@ -50,7 +50,7 @@ style="vertical-align:top; margin: 4px"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bobmaintain&" alt="Bobmaintain" /></p>
 
 
-<h3 align="left">Github Activity Graph:</h3>
+<h3 align="left">GitHub Activity Graph:</h3>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bobmaintain&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
