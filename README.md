@@ -51,6 +51,7 @@ style="vertical-align:top; margin: 4px"></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bobmaintain&" alt="Bobmaintain" /></p>
 
 
+
 <h3 align="left">GitHub Activity Graph:</h3>
 
 
@@ -58,6 +59,7 @@ style="vertical-align:top; margin: 4px"></p>
 
 
 <h3 align="left">Awards and Trophies:</h3>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bobmaintain&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
