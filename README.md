@@ -18,7 +18,7 @@
 - 	**JavaScript** (Angular JS, React JS, Express JS/Node JS, and JQuery).
 - 	**SQL** (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
 - 	**PHP** (Laravel, Codeigniter, CakePHP).
-- 	**Cloud Computing**  (MS Azure and AWS).
+- 	**Cloud Computing**  (MS Azure, GCP and AWS).
 - 	**Docker/Kubernetes**.
 - 	**HTML/CSS**.
 - 	**NoSQL** (MongoDB).
