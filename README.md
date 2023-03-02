@@ -2,12 +2,12 @@
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=Bobmaintain.visitor-badge)](https://github.com/Bobmaintain)
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/Bobmaintain)](https://gist.github.com/Bobmaintain)
 
-   #                                                          Hi there! I am Chidubem Jonah 👋
+   #                                                          Hi there! I am Bob-Nelson C.N. Jonah 👋
    ##                                                An Award Winning Data Scientist and Software Engineer
    
 
 
-- 🔭 I’m currently working at Gramel Technologies.
+- 🔭 I’m currently working at IGHub Technologies.
 - 🌱 I’m learning to be better at both Software Engineering and Data Science/ Artificial Intelligence/ Machine Learning daily.
 - 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
 - 
