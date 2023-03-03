@@ -10,6 +10,12 @@ Blockchain Specialist.
 FinTech Evangelist.
 Information Technology Consultant.
 
+
+SPECIALIZATION:
+E-commerce Systems.
+Online Payments.
+Consumer Web.
+Blockchain.
    
 
 
