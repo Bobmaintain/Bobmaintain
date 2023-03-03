@@ -3,10 +3,12 @@
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/Bobmaintain)](https://gist.github.com/Bobmaintain)
 
    #                                                          Hi there! I am Bob-Nelson C.N. Jonah 👋
-   ##                                                An Award Winning Data Scientist and Software Development Engineer.Microservices Advocate. 
-Blockchain Specialist. 
-FinTech Evangelist. 
-Information Technology Consultant. 
+   ##                                                An Award Winning Data Scientist and Software Development Engineer
+
+Microservices Advocate.
+Blockchain Specialist.
+FinTech Evangelist.
+Information Technology Consultant.
 
    
 
