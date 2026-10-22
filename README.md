@@ -25,7 +25,7 @@
 
 - 🌱 I am actively seeking global opportunities in Data Analytics, Software Development, or Technical Operations within forward-thinking Agritech, logistics, or supply chain organizations that value multidisciplinary talent.
 
-- 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
+- 👯 I am looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
 - 
 
 
