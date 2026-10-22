@@ -5,19 +5,21 @@
    #                                                          Hi there! I am Chidubem Nnaemeka 'Bob-Nelson' Jonah 👋
    ##                                               Data Analyst & Software Developer | B.Agric (Animal Science) | AgriTech Automation & Agribusiness Logistics | TEFL Certified Tech Writer
 
+
 • Technical Skills: Python (Programming Language), SQL, Data Analysis, Software Development, Automation Pipelines.
 
 • Industry Skills: Animal Science, Logistics Management, Agribusiness, Supply Chain Operations, Fleet Tracking.
 
+
 - 🔭 I am a Data Analyst and Software Developer specializing in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. Holding a formal Bachelor of Agriculture (B.Agric (Hons.)) honors degree in Animal Science and Animal Production, I possess deep domain knowledge of livestock nutrition and physiology, herd management, and agricultural operations.
 
-To complement my agricultural background, my technical expertise is built on a solid foundation of prior professional roles as a Software Developer and Data Analyst, paired with certifications from Dataquest and Alison. I have a proven track record of mastering Python engineering, database architecture (SQL), automated data pipelines, and Object-Oriented Programming (OOP) to solve real-world corporate challenges. As a TEFL-certified Technical Writer, I also specialize in breaking down complex technical workflows into clear, accessible documentation.
+- To complement my agricultural background, my technical expertise is built on a solid foundation of prior professional roles as a Software Developer and Data Analyst, paired with certifications from Dataquest and Alison. I have a proven track record of mastering Python engineering, database architecture (SQL), automated data pipelines, and Object-Oriented Programming (OOP) to solve real-world corporate challenges. As a TEFL-certified Technical Writer, I also specialize in breaking down complex technical workflows into clear, accessible documentation.
 
-Currently based in the Gulf region, I work within high-frequency logistics operations. This role gives me daily, practical experience with route optimization, fleet data tracking, and cold-chain asset integrity. I apply my software development skills directly to this domain—building clean, modular Python scripts to optimize data pipelines and resource tracking.
+- Currently based in the Gulf region, I work within high-frequency logistics operations. This role gives me daily, practical experience with route optimization, fleet data tracking, and cold-chain asset integrity. I apply my software development skills directly to this domain—building clean, modular Python scripts to optimize data pipelines and resource tracking.
 
-⚙️ Core Technical Skills: Python (OOP, Automation, File I/O), SQL, Data Wrangling, CSV Telemetry Log Analysis, Tech Writing, Documentation.
+- ⚙️ Core Technical Skills: Python (OOP, Automation, File I/O), SQL, Data Wrangling, CSV Telemetry Log Analysis, Tech Writing, Documentation.
 
-🌾 Domain Expertise: Animal Science, Precision Livestock Logistics, Cold-Chain Distribution Management, Agribusiness Systems.
+- 🌾 Domain Expertise: Animal Science, Precision Livestock Logistics, Cold-Chain Distribution Management, Agribusiness Systems.
 
 - 🌱 I am actively seeking global opportunities in Data Analytics, Software Development, or Technical Operations within forward-thinking Agritech, logistics, or supply chain organizations that value multidisciplinary talent.
 
