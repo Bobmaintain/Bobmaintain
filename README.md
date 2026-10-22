@@ -3,24 +3,24 @@
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/Bobmaintain)](https://gist.github.com/Bobmaintain)
 
    #                                                          Hi there! I am Chidubem Nnaemeka 'Bob-Nelson' Jonah 👋
-   ##                                                An Award Winning Data Scientist and Software Development Engineer
+   ##                                               Data Analyst & Software Developer | B.Agric (Animal Science) | AgriTech Automation & Agribusiness Logistics | TEFL Certified Tech Writer
 
-Microservices Advocate.
-Blockchain Specialist.
-FinTech Evangelist.
-Information Technology Consultant.
+• Technical Skills: Python (Programming Language), SQL, Data Analysis, Software Development, Automation Pipelines.
 
+• Industry Skills: Animal Science, Logistics Management, Agribusiness, Supply Chain Operations, Fleet Tracking.
 
-SPECIALIZATION:
-E-commerce Systems.
-Online Payments.
-Consumer Web.
-Blockchain.
-   
+- 🔭 I am a Data Analyst and Software Developer specializing in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. Holding a formal Bachelor of Agriculture (B.Agric (Hons.)) honors degree in Animal Science and Animal Production, I possess deep domain knowledge of livestock nutrition and physiology, herd management, and agricultural operations.
 
+To complement my agricultural background, my technical expertise is built on a solid foundation of prior professional roles as a Software Developer and Data Analyst, paired with certifications from Dataquest and Alison. I have a proven track record of mastering Python engineering, database architecture (SQL), automated data pipelines, and Object-Oriented Programming (OOP) to solve real-world corporate challenges. As a TEFL-certified Technical Writer, I also specialize in breaking down complex technical workflows into clear, accessible documentation.
 
-- 🔭 I’m currently working at IGHub Technologies.
-- 🌱 I’m learning to be better at both Software Engineering and Data Science/ Artificial Intelligence/ Machine Learning daily.
+Currently based in the Gulf region, I work within high-frequency logistics operations. This role gives me daily, practical experience with route optimization, fleet data tracking, and cold-chain asset integrity. I apply my software development skills directly to this domain—building clean, modular Python scripts to optimize data pipelines and resource tracking.
+
+⚙️ Core Technical Skills: Python (OOP, Automation, File I/O), SQL, Data Wrangling, CSV Telemetry Log Analysis, Tech Writing, Documentation.
+
+🌾 Domain Expertise: Animal Science, Precision Livestock Logistics, Cold-Chain Distribution Management, Agribusiness Systems.
+
+- 🌱 I am actively seeking global opportunities in Data Analytics, Software Development, or Technical Operations within forward-thinking Agritech, logistics, or supply chain organizations that value multidisciplinary talent.
+
 - 👯 I’m looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
 - 
 
@@ -81,7 +81,7 @@ style="vertical-align:top; margin: 4px"></p>
 
 
 - 📫 How to reach me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bobmaintain)](https://github.com/Bobmaintain)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bob-nelson-dubem-jonah-gas-mnsap-72a13b7b)](https://www.linkedin.com/in/bob-nelson-dubem-jonah-gas-mnsap-72a13b7b)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jonahcnb.official@gmail.com)](jonahcnb.official@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Bobmaintain)](https://github.com/Bobmaintain)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chidubem-nnaemeka-jonah-gas-mnsap-72a13b7b?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/bob-nelson-dubem-jonah-gas-mnsap-72a13b7b)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=jonahcnb.official@gmail.com)](jonahcnb.official@gmail.com)
 
 
 
