@@ -6,9 +6,11 @@
    ##                                               Data Analyst & Software Developer | B.Agric (Animal Science) | AgriTech Automation & Agribusiness Logistics | TEFL Certified Tech Writer
 
 
+
 • Technical Skills: Python (Programming Language), SQL, Data Analysis, Software Development, Automation Pipelines.
 
 • Industry Skills: Animal Science, Logistics Management, Agribusiness, Supply Chain Operations, Fleet Tracking.
+
 
 
 - 🔭 I am a Data Analyst and Software Developer specializing in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. Holding a formal Bachelor of Agriculture (B.Agric (Hons.)) honors degree in Animal Science and Animal Production, I possess deep domain knowledge of livestock nutrition and physiology, herd management, and agricultural operations.
