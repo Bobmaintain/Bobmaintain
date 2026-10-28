@@ -36,9 +36,9 @@
 
 
 Technical Focus:
-🛢️ Databases & Transformations: SQL, Data Modeling, Database Schema Design
-🐍 Pipeline Automation & Scripting: Python (Pandas, NumPy for heavy ETL and data manipulation), Airflow, AWS S3 bucket or Google Cloud Storage
-⚙️ Environments: Jupyter Notebooks, Version Control
+-🛢️ Databases & Transformations: SQL, Data Modeling, Database Schema Design
+-🐍 Pipeline Automation & Scripting: Python (Pandas, NumPy for heavy ETL and data manipulation), Airflow, AWS S3 bucket or Google Cloud Storage
+-⚙️ Environments: Jupyter Notebooks, Version Control
 
 
 
