@@ -34,7 +34,16 @@
 
 
 
-- 💬 Ask me about:
+
+Technical Focus:
+🛢️ Databases & Transformations: SQL, Data Modeling, Database Schema Design
+🐍 Pipeline Automation & Scripting: Python (Pandas, NumPy for heavy ETL and data manipulation), Airflow, AWS S3 bucket or Google Cloud Storage
+⚙️ Environments: Jupyter Notebooks, Version Control
+
+
+
+
+- 💬 However, you can ask me about:
 - 	**Python** (Numpy, Pandas, Matplotlib, Seaborn, Researchpy, Scipy, SymPy, Plotly, PyTorch, PyGames, Turtle, Kivy, Tkinter, SciKit-Learn, Keras, PyTorch, Django and Flask).
 - 	**JavaScript** (Angular JS, React JS, Express JS/Node JS, and JQuery).
 - 	**SQL** (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
