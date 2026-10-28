@@ -27,10 +27,11 @@
 
 - 🌾 Domain Expertise: Animal Science, Precision Livestock Logistics, Cold-Chain Distribution Management, Agribusiness Systems.
 
-- 🌱 I am actively seeking global opportunities in Data Analytics, Software Development, or Technical Operations within forward-thinking Agritech, logistics, or supply chain organizations that value multidisciplinary talent.
-
+- 🌱 I am actively seeking global opportunities and  looking to apply my data engineering toolkit to forward-thinking AgTech startups, smart farming networks, data-driven biotechnology teams that value multidisciplinary talent.
+ 
 - 👯 I am looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
-- 
+- Let's connect!
+
 
 
 - 💬 Ask me about:
