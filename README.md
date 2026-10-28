@@ -3,7 +3,7 @@
 [![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/Bobmaintain)](https://gist.github.com/Bobmaintain)
 
    #                                                          Hi there! I am Chidubem Nnaemeka 'Bob-Nelson' Jonah 👋
-   ##                                               Data Analyst & Software Developer | B.Agric (Animal Science) | AgriTech Automation & Agribusiness Logistics | TEFL Certified Tech Writer
+   ##                                               Data Engineer | B.Agric (Animal Science) | AgriTech Automation & Analytics | Agribusiness Logistics | TEFL Certified Tech Writer
 
 
 
