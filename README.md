@@ -15,7 +15,8 @@
 
 - 🔭 I am a Data Engineer specialized in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. Holding a formal Bachelor of Agriculture (B.Agric (Hons.)) honors degree in Animal Science and Animal Production, I possess deep domain knowledge of livestock nutrition and physiology, herd management, and agricultural operations.
 
-- 
+- I build the data infrastructure that powers modern agricultural technology because I understand the vast, complex, and messy nature of biological data—from IoT livestock sensors to experimental trials. I bridge this domain knowledge with technical engineering to construct stable, automated data pipelines.
+
 - To complement my agricultural background, my technical expertise is built on a solid foundation of prior professional roles as a Software Developer and Data Analyst, paired with certifications from Dataquest and Alison. I have a proven track record of mastering Python engineering, database architecture (SQL), automated data pipelines, and Object-Oriented Programming (OOP) to solve real-world corporate challenges. As a TEFL-certified Technical Writer, I also specialize in breaking down complex technical workflows into clear, accessible documentation.
 
 - Rather than just consuming data, I focus on the heavy backend extraction, transformation, and structural integrity of data systems using Python and SQL.
