@@ -41,7 +41,7 @@ Technical Focus:
 
 -🐍 Pipeline Automation & Scripting: Python (Pandas, NumPy for heavy ETL and data manipulation), Airflow, AWS S3 bucket or Google Cloud Storage
 
--⚙️ Environments: Jupyter Notebooks, Version Control
+-⚙️ Environments: PyCharm, VS Code, Jupyter Notebooks, Version Control
 
 
 
