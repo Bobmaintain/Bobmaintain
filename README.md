@@ -7,15 +7,15 @@
 
 
 
-• Technical Skills: Python (Programming Language), SQL, Data Analytics, Software Development, Automation Pipelines, Apache Airflow, AWS S3 bucket, Google Cloud Storage.
+### • Technical Skills: Python (Programming Language), SQL, Data Analytics, Software Development, Automation Pipelines, Apache Spark, Apache Airflow, AWS S3 bucket, Google Cloud Storage.
 
-• Industry Skills: Animal Science, Logistics Management, Agribusiness, Supply Chain Operations, Fleet Tracking.
+### • Industry Skills: Animal Science, Logistics Management, Agribusiness, Supply Chain Operations, Fleet Tracking.
 
 
 
 - 🔭 I am a Data Engineer specialized in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. Holding a formal Bachelor of Agriculture (B. Agric (Hons.)) honors degree in Animal Science and Animal Production, I possess deep domain knowledge of poultry and livestock genetics, breeding, nutrition and physiology, herd management, and agricultural operations.
 
-- I build data infrastructures that powers modern agricultural technology because I understand the vast, complex, and messy nature of biological data—from IoT livestock sensors to experimental trials. I bridge this domain knowledge with technical engineering to construct stable, automated data pipelines.
+- I build data infrastructures that power modern agricultural technology because I understand the vast, complex, and messy nature of biological data—from IoT livestock sensors to experimental trials. I bridge this domain knowledge with technical engineering to construct stable, automated data pipelines.
 
 - To complement my agricultural background, my technical expertise is built on a solid foundation of prior professional roles as a Software Developer and Data Analyst, paired with certifications from Dataquest and Alison. I have a proven track record of mastering Python engineering, database architecture (SQL), automated data pipelines, and Object-Oriented Programming (OOP) to solve real-world corporate challenges. As a TEFL-certified Technical Writer, I also specialize in breaking down complex technical workflows into clear, accessible documentation.
 
@@ -27,9 +27,9 @@
 
 - 🌾 Domain Expertise: Animal Science, Precision Livestock Logistics, Cold-Chain Distribution Management, Agribusiness Systems.
 
-- 🌱 I am actively seeking global opportunities and  looking to apply my data engineering toolkit to forward-thinking AgTech startups, smart farming networks, data-driven biotechnology teams that value multidisciplinary talent.
+- 🌱 I am actively seeking global opportunities and  looking to apply my data engineering toolkit to forward-thinking AgTech startups, smart farming networks, and data-driven biotechnology teams that value multidisciplinary talent.
  
-- 👯 I am looking to collaborate with good people to add lasting values to growth-oriented organizations, through hard work, excellent performances, transparency, honesty and commitment...and also to work within a dynamic, motivating and enriching environment while developing more skills and competences, and applying all acquired in developing resources that will enhance the organization’s overall worth.
+- 👯 I am looking to collaborate with good people to add lasting value to growth-oriented organizations through hard work, excellent performance, transparency, honesty, and commitment...and also to work within a dynamic, motivating, and enriching environment while developing more skills and competencies, and applying all I have acquired to develop resources that will enhance the organization’s overall worth.
 - Let's connect!
 
 
@@ -48,7 +48,7 @@ Technical Focus:
 
 - 💬 However, you can ask me about:
 - 	**Python** (Numpy, Pandas, Matplotlib, Seaborn, Researchpy, Scipy, SymPy, Plotly, PyTorch, PyGames, Turtle, Kivy, Tkinter, SciKit-Learn, Keras, PyTorch, Django and Flask).
-- 	**JavaScript** (Angular JS, React JS, Express JS/Node JS, and JQuery).
+- 	**JavaScript** (AngularJS, React JS, Express JS/Node JS, and jQuery).
 - 	**SQL** (Oracle, MySQL, PostgreSQL, Transact-SQL, SQLite, PL/SQL, PopSQL, SQL*Plus, Sybase SQL Server and Microsoft SQL Server).
 - 	**Cloud Computing**  (MS Azure, GCP and AWS).
 - 	**Docker/Kubernetes**.
