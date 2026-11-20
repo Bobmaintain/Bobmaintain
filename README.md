@@ -9,7 +9,7 @@
 
 ### • Technical Skills: Python (Programming Language), SQL, Data Analytics, Software Development, Automation Pipelines, Apache Spark, Apache Airflow, AWS S3 bucket, Google Cloud Storage.
 
-### • Industry Skills: Animal Science, Logistics Management, Agribusiness, Supply Chain Operations, Fleet Tracking.
+### • Industry Skills: Animal Science, IoT & Edge Data,  Agribusiness, Logistics Management, Supply Chain Operations, Fleet Tracking.
 
 
 
