@@ -7,13 +7,13 @@
 
 
 
-### • Technical Skills: Python (Programming Language), SQL, Data Analytics, Software Development, Automation Pipelines, Apache Spark, Apache Airflow, AWS S3 bucket, Google Cloud Storage.
+### •    Technical Skills: Python (Programming Language), SQL, Data Analytics, Software Development, Automation Pipelines, Apache Spark, Apache Airflow, AWS S3 bucket, Google Cloud Storage.
 
-### • Industry Skills: Animal Science, IoT & Edge Data,  Agribusiness, Logistics Management, Supply Chain Operations, Fleet Tracking.
+### •    Industry Skills: Animal Science, IoT & Edge Data,  Agribusiness, Logistics Management, Supply Chain Operations, Fleet Tracking.
 
 
 
-- 🔭 I am a Data Engineer specialized in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. Holding a formal Bachelor of Agriculture (B. Agric (Hons.)) honors degree in Animal Science and Animal Production, I possess deep domain knowledge of poultry and livestock genetics, breeding, nutrition and physiology, herd management, and agricultural operations.
+- 🔭 I am a Data Engineer specialized in bridging the gap between livestock production systems, agribusiness supply chains, and automated software pipelines. With a Bachelor of Agriculture (B. Agric (Hons.)) in Animal Science and Animal Production, I have deep domain knowledge of poultry and livestock genetics, breeding, nutrition and physiology, herd management, and agricultural operations.
 
 - I build data infrastructures that power modern agricultural technology because I understand the vast, complex, and messy nature of biological data—from IoT livestock sensors to experimental trials. I bridge this domain knowledge with technical engineering to construct stable, automated data pipelines.
 
